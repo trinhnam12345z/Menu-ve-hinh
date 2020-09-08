@@ -1,0 +1,12 @@
+E:\BT C#\Ve hinh\Ve hinh\bin\Debug\netcoreapp3.1\Ve hinh.exe
+E:\BT C#\Ve hinh\Ve hinh\bin\Debug\netcoreapp3.1\Ve hinh.deps.json
+E:\BT C#\Ve hinh\Ve hinh\bin\Debug\netcoreapp3.1\Ve hinh.runtimeconfig.json
+E:\BT C#\Ve hinh\Ve hinh\bin\Debug\netcoreapp3.1\Ve hinh.runtimeconfig.dev.json
+E:\BT C#\Ve hinh\Ve hinh\bin\Debug\netcoreapp3.1\Ve hinh.dll
+E:\BT C#\Ve hinh\Ve hinh\bin\Debug\netcoreapp3.1\Ve hinh.pdb
+E:\BT C#\Ve hinh\Ve hinh\obj\Debug\netcoreapp3.1\Ve hinh.AssemblyInfoInputs.cache
+E:\BT C#\Ve hinh\Ve hinh\obj\Debug\netcoreapp3.1\Ve hinh.AssemblyInfo.cs
+E:\BT C#\Ve hinh\Ve hinh\obj\Debug\netcoreapp3.1\Ve hinh.csproj.CoreCompileInputs.cache
+E:\BT C#\Ve hinh\Ve hinh\obj\Debug\netcoreapp3.1\Ve hinh.dll
+E:\BT C#\Ve hinh\Ve hinh\obj\Debug\netcoreapp3.1\Ve hinh.pdb
+E:\BT C#\Ve hinh\Ve hinh\obj\Debug\netcoreapp3.1\Ve hinh.genruntimeconfig.cache
