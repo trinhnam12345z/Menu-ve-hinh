@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\BT C#\\Ve hinh\\Ve hinh\\Ve hinh.csproj",
+      "projectUniqueName": "E:\\C#\\Menu-ve-hinh\\Ve hinh\\Ve hinh.csproj",
       "projectName": "Ve hinh",
-      "projectPath": "E:\\BT C#\\Ve hinh\\Ve hinh\\Ve hinh.csproj",
+      "projectPath": "E:\\C#\\Menu-ve-hinh\\Ve hinh\\Ve hinh.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "E:\\BT C#\\Ve hinh\\Ve hinh\\obj\\",
+      "outputPath": "E:\\C#\\Menu-ve-hinh\\Ve hinh\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

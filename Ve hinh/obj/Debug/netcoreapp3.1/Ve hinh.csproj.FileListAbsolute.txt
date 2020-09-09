@@ -10,3 +10,16 @@ E:\BT C#\Ve hinh\Ve hinh\obj\Debug\netcoreapp3.1\Ve hinh.csproj.CoreCompileInput
 E:\BT C#\Ve hinh\Ve hinh\obj\Debug\netcoreapp3.1\Ve hinh.dll
 E:\BT C#\Ve hinh\Ve hinh\obj\Debug\netcoreapp3.1\Ve hinh.pdb
 E:\BT C#\Ve hinh\Ve hinh\obj\Debug\netcoreapp3.1\Ve hinh.genruntimeconfig.cache
+E:\C#\Menu-ve-hinh\Ve hinh\obj\Debug\netcoreapp3.1\Ve hinh.csprojAssemblyReference.cache
+E:\C#\Menu-ve-hinh\Ve hinh\obj\Debug\netcoreapp3.1\Ve hinh.AssemblyInfoInputs.cache
+E:\C#\Menu-ve-hinh\Ve hinh\obj\Debug\netcoreapp3.1\Ve hinh.AssemblyInfo.cs
+E:\C#\Menu-ve-hinh\Ve hinh\obj\Debug\netcoreapp3.1\Ve hinh.csproj.CoreCompileInputs.cache
+E:\C#\Menu-ve-hinh\Ve hinh\obj\Debug\netcoreapp3.1\Ve hinh.dll
+E:\C#\Menu-ve-hinh\Ve hinh\obj\Debug\netcoreapp3.1\Ve hinh.pdb
+E:\C#\Menu-ve-hinh\Ve hinh\bin\Debug\netcoreapp3.1\Ve hinh.exe
+E:\C#\Menu-ve-hinh\Ve hinh\bin\Debug\netcoreapp3.1\Ve hinh.deps.json
+E:\C#\Menu-ve-hinh\Ve hinh\bin\Debug\netcoreapp3.1\Ve hinh.runtimeconfig.json
+E:\C#\Menu-ve-hinh\Ve hinh\bin\Debug\netcoreapp3.1\Ve hinh.runtimeconfig.dev.json
+E:\C#\Menu-ve-hinh\Ve hinh\bin\Debug\netcoreapp3.1\Ve hinh.dll
+E:\C#\Menu-ve-hinh\Ve hinh\bin\Debug\netcoreapp3.1\Ve hinh.pdb
+E:\C#\Menu-ve-hinh\Ve hinh\obj\Debug\netcoreapp3.1\Ve hinh.genruntimeconfig.cache

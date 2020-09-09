@@ -7,7 +7,6 @@ namespace Ve_hinh
         static void Main(string[] args)
         {
             int choice = 5;
-            int i, j, a, b, k;
             int choice1 = 0;
             while (choice != 0)
             {
@@ -22,14 +21,7 @@ namespace Ve_hinh
                 switch (choice)
                 {
                     case 1:
-                        for (i = 1; i <= 3; i++)
-                        {
-                            for (j = 1; j <= 7; j++)
-                            {
-                                Console.Write(" * ");
-                            }
-                            Console.WriteLine();
-                        }
+                        rectangle();
                         break;
                     case 2:
                         {
@@ -43,31 +35,12 @@ namespace Ve_hinh
                             {
                                 if (choice1 == 1)
                                 {
-                                    for (a = 5; a >= 1; a--)
-                                    {
-                                        for (b = 1; b <= a; b++)
-                                        {
-                                            Console.Write("*");
-                                        }
-                                        Console.WriteLine();
-                                    }
+                                    topleft();
                                     break;
                                 }
                                 else if (choice1 == 2)
                                 {
-                                    for (a = 1; a <= 5; a++)
-                                    {
-                                        for (b = 1; b <= 5; b++)
-                                        {
-                                            if (b < a)
-                                            {
-                                                Console.Write(" ");
-                                            }
-                                            else
-                                                Console.Write("*");
-                                        }
-                                        Console.WriteLine();
-                                    }
+                                    topright();
                                     break;
 
 
@@ -75,49 +48,19 @@ namespace Ve_hinh
                                 }
                                 else if (choice1 == 3)
                                 {
-                                    for (a = 1; a <= 5; a++)
-                                    {
-                                        for (b = 1; b <= a; b++)
-                                        {
-                                            Console.Write("*");
-                                        }
-                                        Console.WriteLine();
-                                    }
+                                    bottonleft();
                                     break;
                                 }
                                 else if (choice1 == 4)
                                 {
-                                    for (a = 1; a <= 5; a++)
-                                    {
-                                        for (b = 5; b >= 1; b--)
-                                        {
-                                            if (b > a)
-                                            {
-                                                Console.Write(" ");
-                                            }
-                                            else
-                                                Console.Write("*");
-                                        }
-                                        Console.WriteLine();
-                                    }
+                                    bottonright();
                                     break;
                                 }
                             }
                         }
                         break;
                     case 3:
-                        for (i = 1; i < 10; i += 2)
-                        {
-                            for (k = 0; k < (4 - i / 2); k++)
-                            {
-                                Console.Write(" ");
-                            }
-                            for (j = 0; j < i; j++)
-                            {
-                                Console.Write("*");
-                            }
-                            Console.WriteLine("");
-                        }
+                        isosceles_triangle();
                         break;
                     case 4:
                         Environment.Exit(0);
@@ -126,6 +69,86 @@ namespace Ve_hinh
                         Console.WriteLine("No choice!");
                         break;
                 }
+            }
+        }
+        static void rectangle()
+        {
+            for (int i = 1; i <= 3; i++)
+            {
+                for (int j = 1; j <= 7; j++)
+                {
+                    Console.Write(" * ");
+                }
+                Console.WriteLine();
+            }
+        }
+        static void topleft()
+        {
+            for (int a = 5; a >= 1; a--)
+            {
+                for (int b = 1; b <= a; b++)
+                {
+                    Console.Write("*");
+                }
+                Console.WriteLine();
+            }
+        }
+        static void topright()
+        {
+            for (int a = 1; a <= 5; a++)
+            {
+                for (int b = 1; b <= 5; b++)
+                {
+                    if (b < a)
+                    {
+                        Console.Write(" ");
+                    }
+                    else
+                        Console.Write("*");
+                }
+                Console.WriteLine();
+            }
+        }
+        static void bottonleft()
+        {
+            for (int a = 1; a <= 5; a++)
+            {
+                for (int b = 1; b <= a; b++)
+                {
+                    Console.Write("*");
+                }
+                Console.WriteLine();
+            }
+        }
+        static void bottonright()
+        {
+            for (int a = 1; a <= 5; a++)
+            {
+                for (int b = 5; b >= 1; b--)
+                {
+                    if (b > a)
+                    {
+                        Console.Write(" ");
+                    }
+                    else
+                        Console.Write("*");
+                }
+                Console.WriteLine();
+            }
+        }
+        static void isosceles_triangle()
+        {
+            for (int i = 1; i < 10; i += 2)
+            {
+                for (int k = 0; k < (4 - i / 2); k++)
+                {
+                    Console.Write(" ");
+                }
+                for (int j = 0; j < i; j++)
+                {
+                    Console.Write("*");
+                }
+                Console.WriteLine("");
             }
         }
     }
